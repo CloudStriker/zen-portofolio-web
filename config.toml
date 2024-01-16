@@ -37,7 +37,7 @@ authorName = "Zentonator"
 disqusComments = "" #YOUR DISQUS COMMENTS SHORTNAME
 formspreeFormID = "https://formspree.io/f/meqyopqe" #YOUR FORMSPREE FORM ID
 reCAPTCHAKey = "6LcG3VIpAAAAADmgOPjke42yMU8NEzmLqRFl3JtY" #YOUR reCAPTCHA v2 key
-googleMapsApiKey = "AIzaSyAV1KS10sb3O462XosfZTKohHJwi6C0joo" #YOUR GOOGLE API KEY
+googleMapsApiKey = "" #YOUR GOOGLE API KEY
 
 # Sidebar Settings
 [params.sidebar]

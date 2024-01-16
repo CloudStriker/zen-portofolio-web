@@ -1,0 +1,108 @@
+# General Settings
+title = "Zentonator Portfolio"
+baseURL = "https://zentonator.clicknow.my.id" #YOUR SITE URL
+languageCode = "en-us"
+theme = "glacier"
+resourceDir = "resources"
+paginate = 5
+summaryLength = 50
+DefaultContentLanguage = "en" # Site language. Available translations in the theme's `/i18n` directory.
+
+
+# Menu Settings
+[menu]
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  identifier = "pages"
+  name = "About me"
+  url = "/about-me/"
+  weight = 2
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact Me"
+  url = "/contact/"
+  weight = 3
+
+# Main Settings
+[params]
+defaultLogo = "Zentonator"
+defaultKeywords = ["clean", "minimal", "blog", "responsive", "google analytics", "bootstrap", "portfolio", "personal", "modern", "parallax", "hugo theme", "creative"]
+defaultDescription = "Zentonator's Portfolio"
+dateFormat = "January 2, 2006"
+authorName = "Zentonator"
+disqusComments = "" #YOUR DISQUS COMMENTS SHORTNAME
+formspreeFormID = "" #YOUR FORMSPREE FORM ID
+reCAPTCHAKey = "" #YOUR reCAPTCHA v2 key
+googleMapsApiKey = "AIzaSyAV1KS10sb3O462XosfZTKohHJwi6C0joo" #YOUR GOOGLE API KEY
+
+# Sidebar Settings
+[params.sidebar]
+enable = 0 #SIDEBAR SHOW: [ 1 - yes, 0 - no ] For General page "Blog"
+position = "right" #SIDEBAR POSITION: [ left, right ] For General page "Blog"
+search = 0 #SIDEBAR SEARCH WIDGET: [ 1 - yes, 0 - no ]
+latestPosts = 0 #SIDEBAR LATEST POSTS WIDGET: [ 1 - yes, 0 - no ]
+categories = 0 #SIDEBAR CATEGORIES TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
+tags = 0 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
+
+[params.about]
+about = 0 #SIDEBAR ABOUT WIDGET: [ 1 - yes, 0 - no ]
+image = "images/author-blog.jpg"
+name = "Zentonator"
+text = "<p>Can't multiply. Set set created thing light blessed third without. Him can't kind called set is second thing from you'll tree. Seed darkness you. Itself night. Life. Hath creature good.</p>"
+[[params.about.social]]
+icon = "fa-brands fa-x-twitter"
+url = "https://www.twitter.com/"
+[[params.about.social]]
+icon = "fa-brands fa-facebook"
+url = "https://facebook.com/"
+[[params.about.social]]
+icon = "fa-brands fa-dribbble"
+url = "https://dribbble.com/"
+[[params.about.social]]
+icon = "fa-brands fa-youtube"
+url = "https://www.youtube.com/"
+
+[params.subscribe]
+subscribe = 0 #SIDEBAR SUBSCRIBE WIDGET: [ 1 - yes, 0 - no ]
+mailChimpURL = "https://stevedogs.us9.list-manage.com/subscribe/post?u=df0aa2ea10f32337b29b342d4&id=41ddc569b4"  # Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
+
+# Portfolio Settings (Filter)
+[params.portfolio]
+[[params.portfolio.filters]]
+name = "Branding"
+slug = "branding"
+[[params.portfolio.filters]]
+name = "Illustration"
+slug = "illustration"
+[[params.portfolio.filters]]
+name = "Logo"
+slug = "logo"
+[[params.portfolio.filters]]
+name = "Photography"
+slug = "photography"
+
+
+# Footer Settings
+[params.footer]
+copyright = "Edited by <a href='https://clicknow.my.id' target='_blank'> ClickNow </a> Using Glacier Theme"
+
+# Social Settings
+[[params.social]]
+title = "Instagram"
+url = "https://www.instagram.com/fikri.elzen"
+[[params.social]]
+title = "Pixiv"
+url = "https://www.pixiv.net/users/29649175"
+
+# Sitemap Settings
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

@@ -2,8 +2,8 @@
 # preview details
 title: Photography
 date: 2023-08-01T20:18:01+03:00
-category: Design Photography
-category_slug: design photography
+category: Photography
+category_slug: photography
 image: images/photos/IMG_1499.JPG
 columns: 1 # If you want a media box to be 1, 2 or 3 columns wide
 

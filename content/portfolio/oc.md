@@ -2,7 +2,7 @@
 # preview details
 title: Original Character
 date: 2023-08-10T20:18:01+03:00
-category: Design Illustration
+category: Design, Illustration
 category_slug: design illustration
 image: images/portfolio/OriginalCharacter/17.png
 columns: 2 # If you want a media box to be 1, 2 or 3 columns wide

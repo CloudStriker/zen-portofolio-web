@@ -5,7 +5,7 @@
 contact:
   enable: true
   title: "Agar Silaturahmi Tidak Terputus, Pinjam Dulu Seratus"
-  description: <p>Selamat datang di halaman "Contact Me"! Di sini, Anda dapat dengan mudah terhubung dengan saya untuk berbagai pertanyaan, kerjasama, atau sekadar menyapa. Desain halaman ini dirancang untuk memberikan pengalaman yang intuitif dan ramah pengguna.</p>
+  description: <p>Selamat datang di halaman "Contact Me"! Di sini, Anda dapat dengan mudah terhubung dengan saya untuk berbagai pertanyaan, kerjasama, atau sekadar menyapa. Anda dapat menghubungi saya menggunakan email dibawah ini.</p>
   contactInformation:
     - title: "Email me"
       text: "<a href='mailto:'>zentonator@clicknow.my.id</a>"

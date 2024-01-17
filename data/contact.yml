@@ -8,7 +8,7 @@ contact:
   description: <p>Selamat datang di halaman "Contact Me"! Di sini, Anda dapat dengan mudah terhubung dengan saya untuk berbagai pertanyaan, kerjasama, atau sekadar menyapa. Anda dapat menghubungi saya menggunakan email dibawah ini.</p>
   contactInformation:
     - title: "Email me"
-      text: "<a href='mailto:'>zentonator@clicknow.my.id</a>"
+      text: "<a href='mailto:zentonator@clicknow.my.id'>zentonator@clicknow.my.id</a>"
 
     # - title: "Call Us"
     #   text: "+6192113747"

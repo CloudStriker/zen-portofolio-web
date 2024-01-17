@@ -1,6 +1,6 @@
 ---
 # preview details
-title: Fanart
+title: Fan Art
 date: 2023-08-17T20:18:01+03:00
 category: Design Illustration
 category_slug: design illustration

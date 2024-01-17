@@ -18,7 +18,7 @@ contact:
 
 ### Map [ mapSection ]
 map:
-  enable: true
+  enable: false
   latitude: "-6.9017271"
   longitude: "107.619755"
   iconLocationImage: "/images/icon-location.png"

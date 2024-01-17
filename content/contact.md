@@ -6,7 +6,7 @@ builder: true
 sections:
   - parallaxSection
   - contactSection
-  # - mapSection
+  - mapSection
 
 # Configuration for sections
 

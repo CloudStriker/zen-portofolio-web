@@ -4,7 +4,7 @@ title: Fan Art
 date: 2023-08-17T20:18:01+03:00
 category: Design, Illustration
 category_slug: design illustration
-image: images/portfolio/Fanart/20.jpg
+image: images/portfolio/Fanart/20.png
 columns: 1  # If you want a media box to be 1, 2 or 3 columns wide
 
 # excerpt for alternative portfolio style

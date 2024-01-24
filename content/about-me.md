@@ -11,7 +11,7 @@ sections:
 # Configuration for sections
 
 # Parallax
-parallaxImage: images/zentonator.jpg
+parallaxImage: images/zentonator.png
 parallaxTitle: "Fikri Aulia Elzen"
 effectTitle: "fadeIn" # Full list effects you can find in documentation theme
 parallaxVideo: "hide" # Support YouTube and Vimeo video 

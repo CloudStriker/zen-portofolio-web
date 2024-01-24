@@ -31,7 +31,7 @@ gallery:
   items:
       - image: "/images/portfolio/VectorDesign/1.png"
       - image: "/images/portfolio/VectorDesign/2.png"
-      - image: "/images/portfolio/VectorDesign/3.png"
+      - image: "/images/portfolio/VectorDesign/3.jpg"
       - image: "/images/portfolio/VectorDesign/4.png"
       - image: "/images/portfolio/VectorDesign/5.png"
       - image: "/images/portfolio/VectorDesign/6.png"
